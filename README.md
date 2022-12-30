@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jesushilarioh
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... C#/.NET
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... jesushilariohernandez@gmail.com 
+- 📫 How to reach me ... If you can find me, I'll be very impressed!! 
 
 <!---
 jesushilarioh/jesushilarioh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
