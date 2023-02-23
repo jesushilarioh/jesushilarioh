@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesushilarioh
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... C#/.NET
+- 🌱 I’m currently learning ... C#/.NET, React
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... If you can find me, I'll be very impressed!! 
 
